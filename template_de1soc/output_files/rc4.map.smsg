@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at decrypt.sv(21): object "done_fail" differs only in case from object "DONE_FAIL" in the same scope File: C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/decrypt.sv Line: 21

@@ -1,0 +1,154 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Darren/CPEN/hw3
+vcontroller
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1749806512
+!i10b 1
+!s100 IETOaD`:c2EklWP`:81fI2
+I::N?;@;UXbT@BoK3F^N2G0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 controller_sv_unit
+S1
+Z3 dC:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc
+w1749804725
+8C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/controller.sv
+FC:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/controller.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1749806512.000000
+!s107 C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/controller.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vinit_mem
+R0
+Z8 !s110 1749770337
+!i10b 1
+!s100 A7^KNHi4N>keRj=dmAh[@1
+IGbFn4>n[?<L1DXI8YbZeI2
+R2
+!s105 init_mem_sv_unit
+S1
+R3
+w1749770128
+8C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/init_mem.sv
+FC:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/init_mem.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1749770337.000000
+!s107 C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/init_mem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/init_mem.sv|
+!i113 1
+R6
+R7
+vscramble
+R0
+Z10 !s110 1749807393
+!i10b 1
+!s100 l6liJo^b9ihELcX[]7Tj51
+InKCLWHd_@Sm^mQ44G2n[?3
+R2
+!s105 task2_sv_unit
+S1
+R3
+w1749807218
+8C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/task2.sv
+FC:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/task2.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z11 !s108 1749807393.000000
+!s107 C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/task2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/task2.sv|
+!i113 1
+R6
+R7
+vtb_controller
+R0
+R1
+!i10b 1
+!s100 2S8ndPld__lPH7bI8?4Ed1
+I8T[US:eaGY7:Yjn^@QB<13
+R2
+!s105 tb_controller_sv_unit
+S1
+R3
+w1749806447
+8C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_controller.sv
+FC:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_controller.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_controller.sv|
+!i113 1
+R6
+R7
+vtb_init_mem
+R0
+R8
+!i10b 1
+!s100 gjQzc3_]f:HWDa;YgH:i50
+IJk7:6[OdiXha8W<aPG7KI3
+R2
+!s105 tb_init_mem_sv_unit
+S1
+R3
+w1749770330
+8C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_init_mem.sv
+FC:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_init_mem.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_init_mem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_init_mem.sv|
+!i113 1
+R6
+R7
+vtb_scramble
+R0
+R10
+!i10b 1
+!s100 ;SO4VhcFzW7=DD@=@5]7a3
+I9SBc>0]5T67_X@dV1^OBC2
+R2
+!s105 tb_scramble_sv_unit
+S1
+R3
+w1749806808
+8C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_scramble.sv
+FC:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_scramble.sv
+L0 3
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_scramble.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Darren/CPEN/Lab4_template_de1soc/template_de1soc/tb_scramble.sv|
+!i113 1
+R6
+R7
