@@ -63,6 +63,7 @@ module ksa (
     logic [21:0] secret_key;
     logic found_key;
     logic done_key;
+    logic not_found;
 
     key_generator key_generator_inst (
         .clk(clk),
